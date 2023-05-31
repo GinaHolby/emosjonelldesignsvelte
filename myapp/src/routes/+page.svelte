@@ -38,11 +38,16 @@
             </h4>
         </div>
         <div class="animation"> <Wheel/> </div>
+       
     </div>
 
 
 
-
+    <div class="animation"> <Area/> </div>
+    <div class="animation"> <Clickable/> </div>
+    <div class="animation"> <Important/> </div>
+    <div class="animation"> <Noise/> </div>
+    <div class="animation"> <Wheel/> </div>
 
 
 
