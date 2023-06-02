@@ -8,7 +8,7 @@
             height: 100%;
             /* overflow: hidden; */
         }
-        #lottie{
+        #lottieWheel{
             background-color:#ffffff;
             width:100%;
             height:100%;

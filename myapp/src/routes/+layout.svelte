@@ -3,7 +3,13 @@
 </script>
 
 <header>
-    <h1>Oreyly</h1>
+    <h1>O´REILLY</h1>
+
+    <div class="button"> <h3>SIGN UP</h3> </div>
+
+   
+
+
 </header>
 
 <div class="headerfill"></div>
@@ -17,7 +23,7 @@
 
 <footer>
 
-    hello :)
+    
 </footer>
 
 <style>
@@ -28,15 +34,26 @@
         width: 100%;
         background-color: aliceblue;
         padding: 1rem;
+        z-index:2;
+
+        display: flex;
+        justify-content: space-between;
+        outline: solid 2px  rgb(146, 193, 227);
     }
     .headerfill{
         height: 4rem;
     }
     main{
-        max-width: 900px;
+        max-width: 700px;
         margin: auto;
-        border: 2px solid red;
        
+       
+    }
+
+    .button{
+        background-color: rgb(146, 193, 227);
+        padding: 7px 16px;
+        border-radius: 5px;
     }
 
 
